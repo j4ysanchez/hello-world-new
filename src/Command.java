@@ -4,6 +4,7 @@ public class Command {
         System.out.println("Hello World");
 
         System.out.println("Second commit");
+        System.out.println("Meow");
 
     }
 }
